@@ -8,9 +8,22 @@ title
 
 body
 {
-    color: black;
+    color: #333;
+    text-align:center;
+    font-family:"Arial";
+    font-size: 16px; 
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+    width: 70%;
+    padding:lem;
     text-align:left;
-    font-family:'Courier New', Courier, monospace;
-    font-size: 12px; 
-
+    border:1px solid #DDD;
+    margin: 0 auto;
+}
+#container h1
+{
+    font-size: 20px;
 }
