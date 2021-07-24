@@ -3,7 +3,7 @@ Este es el primer archivo de Proyecto1
 02 segunda linea
 03 tercera linea
 
-Hoy hablaremos de su vida
+Hoy hablaremos de su vida y su vida maestra
 
 acá pongo la edad. 61 años
 19:19hs
